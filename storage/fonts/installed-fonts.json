@@ -1,0 +1,16 @@
+{
+    "source sans pro": {
+        "italic": "\/var\/www\/app\/storage\/fonts\/source_sans_pro_italic_af17c8440088929b38c5cfe930d7915d",
+        "300": "\/var\/www\/app\/storage\/fonts\/source_sans_pro_300_c6077ec99d149827fee17e2ea27788e4",
+        "normal": "\/var\/www\/app\/storage\/fonts\/source_sans_pro_normal_a331146e176a0c94e64a58f063c4f2b5",
+        "bold": "source_sans_pro_bold_cfebb083c1921633494989255bc500d0"
+    },
+    "noto sans": {
+        "normal": "\/var\/www\/app\/storage\/fonts\/noto_sans_normal_9c66f90152bca8404a68d4c28f5a78e2",
+        "bold": "noto_sans_bold_37c6a4b26fb8184fee1ea307ba57bed5"
+    },
+    "noto sans jp": {
+        "normal": "\/var\/www\/app\/storage\/fonts\/noto_sans_jp_normal_0f7006ef5aa22dc4b2394b75774b9d61",
+        "bold": "noto_sans_jp_bold_9951ef107282261e261156a1cc4b0d10"
+    }
+}

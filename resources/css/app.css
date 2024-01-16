@@ -1,0 +1,11 @@
+/* Add custom CSS styles for table columns */
+.custom-table td,
+.custom-table th {
+    border: 1px solid #ddd; /* Set border for all table cells */
+}
+
+/* Custom class to remove borders from rows */
+.no-border-row td,
+.no-border-row th {
+    border: none; /* Remove border for rows */
+}
